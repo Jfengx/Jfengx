@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- [画 🖼](https://j-painting.netlify.app/) 
-- [笔记 📒](https://jf-blog.netlify.app/)
+- [🖼 画](https://j-painting.netlify.app/) 
+- [📒 笔记](https://jf-blog.netlify.app/)
 
 <!--
 **Jfengx/Jfengx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
